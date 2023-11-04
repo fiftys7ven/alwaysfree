@@ -1,4 +1,4 @@
-# AlwaysFree Repository
+# AlwaysFree
 
 [![pages-build-deployment](https://github.com/fiftys7ven/alwaysfree/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/fiftys7ven/alwaysfree/actions/workflows/pages/pages-build-deployment)
 
