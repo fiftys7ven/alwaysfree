@@ -12,12 +12,21 @@ We welcome contributions to make this list even more comprehensive and up-to-dat
 
 To contribute, follow these steps:
 
-1. Fork this repository.
-2. Add the resource you want to include to the appropriate category; Or create a category.
-3. Provide a brief description and a link to the resource.
-4. Submit a pull request.
+1. Fork this repository. Make sure service(s) you wanna add is following our contributing rules.
+3. Add the resource you want to include to the appropriate category; Or create a category.
+4. Provide a brief description and a link to the resource.
+5. Submit a pull request.
 
-(More info about contributing are on our website)[https://fiftys7ven.github.io/alwaysfree/contribute.html]
+## Contributing Rules
+
+If you wanna add a service, it needs to follow these rules:
+
+- No 18+ Services.
+- Service(s) needs to work.
+- No illegal services.
+- If service have free trial, it must be atleast 30 days before be paid.
+- Service must not ask for credit card. (excluding free trials)
+- Services cannot be incomplete.
 
 ## License
 
