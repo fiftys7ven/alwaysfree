@@ -19,15 +19,15 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td>Example Service Name 1</td>
+    <td><a href="#">Example Service Name 1</a></td>
     <td>Example Service Description 1</td>
   </tr>
   <tr>
-    <td>Example Service Name 2</td>
+    <td><a href="#">Example Service Name 2</a></td>
     <td>Example Service Description 2</td>
   </tr>
   <tr>
-    <td>Example Service Name 3</td>
+    <td><a href="#">Example Service Name 3</a></td>
     <td>Example Service Description 3</td>
   </tr>
 </table>
