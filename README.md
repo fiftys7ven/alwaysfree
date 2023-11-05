@@ -36,7 +36,7 @@ We hope you find the AlwaysFree repository useful, and we encourage you to share
 
 ---
 
-Inspired by [free-for.life](https://free-for.life/),
-**AlwaysFree** is maintained by fiftys7ven\
+Inspired by [free-for.life](https://free-for.life/)
+**AlwaysFree** is maintained by fiftys7ven  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
