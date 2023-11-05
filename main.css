@@ -1,0 +1,13 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: gray;
+  color: snow;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
