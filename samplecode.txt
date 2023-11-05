@@ -1,0 +1,33 @@
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+  }
+
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+</style>
+
+<table>
+  <tr>
+    <th>Service</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Example Service Name 1</td>
+    <td>Example Service Description 1</td>
+  </tr>
+  <tr>
+    <td>Example Service Name 2</td>
+    <td>Example Service Description 2</td>
+  </tr>
+  <tr>
+    <td>Example Service Name 3</td>
+    <td>Example Service Description 3</td>
+  </tr>
+</table>
