@@ -17,6 +17,7 @@ To contribute, follow these steps:
 4. Provide a brief description and a link to the resource.
 5. Submit a pull request.
 
+- Done! If you need more help, visit [our contribution how to](https://fiftys7ven.github.io/alwaysfree/contributionhowto.html)
 ## Contributing Rules
 
 If you wanna add a service, it needs to follow these rules:
